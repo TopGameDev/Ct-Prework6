@@ -15,3 +15,13 @@ To clone a remote repository locally, navigate to the directory in which you wou
 
 `git clone URL_FOR_REMOTE_REPO <new_folder_name>`
 * new folder name is optional, default is remote repo name
+
+### Switch/Create Branches
+1. `git checkout <Branch name>`
+        *This switches in and out of branches
+2. `git status`
+        *This checks what branch your in, and what needs to be added.
+3. To merge branches back to main. Merge pull request in github
+
+### To see commit history
+1. `git log`
