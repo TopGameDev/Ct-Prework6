@@ -25,3 +25,7 @@ To clone a remote repository locally, navigate to the directory in which you wou
 
 ### To see commit history
 1. `git log`
+
+### To list all of the changes
+1. `git add -p`
+2. Y or N if you are ok or not ok with the changes.
